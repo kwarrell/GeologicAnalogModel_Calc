@@ -1,4 +1,4 @@
-# GeologicAnalogModel_Calc
+# GeologicAnalogModel_Heave
 
 These programs perform map-view calculations of fault heave on your geologic analog models.
 
