@@ -3,9 +3,8 @@
 These programs perform map-view calculations of fault heave on your geologic analog models.
 
 ### What does it do?
- 1. Calculate the total fault heave on your model (in square centimeters)
- 2. Calculate the average heave across your model (in centimeters)
- 3. Produce a plot that shows the faulting intensity along a cross section of your model
+ 1. <b>faultArea.m</b>: Calculates the total fault heave on your model (in square centimeters) and the average heave across your model (in centimeters)
+ 2. <b>heaveProfile.m</b>: Produce a plot that shows the averaged fault intensity (as a percent) along a cross section of your model
 
 ### What do you need?
 1. Image file of fault trace map, in RGB.
