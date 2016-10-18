@@ -12,3 +12,6 @@ These programs perform map-view calculations of fault heave on your geologic ana
 3. Height of the area in the image file, in centimeters.
 
 All of these programs require a fault trace map as an input. A fault trace map is a map-view image of an analog model where the faults have been colored black and all unfaulted area is white. You can make a fault trace map in Adobe Illustrator, Adobe Photoshop, CorelDraw, Paint, etc. There is a sample fault trace map that you can test the scripts with in the repository (sampleFTM.jpg).
+
+### Instructions
+Save .m files and your fault trace maps (or the sample) into the same directory. The files are already set up to run the sample file. If you want to run the code on your own fault trace maps, change the filename, fieldWidth, and fieldHeight values to match your own experiment. You can also adjust the spacing value in the heaveProfile script to average over larger or smaller intervals.
