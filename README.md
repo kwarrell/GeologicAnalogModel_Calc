@@ -1,9 +1,9 @@
 # GeologicAnalogModel_Heave
 
-These programs perform map-view calculations of fault heave on your geologic analog models.
+These programs perform map-view calculations of fault heave on geologic analog models. This works with physical experimental models comprised of sand, wet clay, and many other media that model plate tectonic processes (primarily rifting/extension).
 
 ### What does it do?
- 1. <b>faultArea.m</b>: Calculates the total fault heave on your model (in square centimeters) and the average heave across your model (in centimeters)
+ 1. <b>faultArea.m</b>: Calculates the total exposed fault heave on your model (in square centimeters) and the average heave across your model (in centimeters)
  2. <b>heaveProfile.m</b>: Produce a plot that shows the averaged fault intensity (as a percent) along a cross section of your model
 
 ### What do you need?
