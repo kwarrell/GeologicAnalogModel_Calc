@@ -42,5 +42,5 @@ ratio = A/(rows*cols);
 heaveArea = ratio*fieldArea;
 
 % Calculate the average heave across the model (in cm)
-avgHeave = heaveArea/fieldHeight;
+avgHeave = heaveArea/fieldWidth;
     
